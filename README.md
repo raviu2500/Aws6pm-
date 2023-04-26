@@ -1,2 +1,2 @@
-# Aws6pm-
+# Aws6pm
 Today workout 
